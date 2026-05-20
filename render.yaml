@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: symetry-megarun
+    env: static
+    buildCommand: ""
+    staticPublishPath: .
